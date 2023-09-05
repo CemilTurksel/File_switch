@@ -1,0 +1,3 @@
+/Users/cemilturksel/CLionProjects/ChangingTextInFiles/cmake-build-debug/CMakeFiles/ChangingTextInFiles.dir
+/Users/cemilturksel/CLionProjects/ChangingTextInFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cemilturksel/CLionProjects/ChangingTextInFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
